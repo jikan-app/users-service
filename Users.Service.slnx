@@ -8,6 +8,7 @@
     <Project Path="src/Users.Service.Persistence/Users.Service.Persistence.csproj" />
   </Folder>
   <Folder Name="/tests/">
+    <Project Path="tests/Users.Service.Application.Tests/Users.Service.Application.Tests.csproj" />
     <Project Path="tests/Users.Service.Domain.Tests/Users.Service.Domain.Tests.csproj" />
   </Folder>
 </Solution>
